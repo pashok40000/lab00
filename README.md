@@ -16,12 +16,19 @@
 
 ## Tutorial
 
+Проверка окружения для разработки (`cmake`, `curl`, e.t.c.)
+
 ```sh
 # check development environment
 $ cmake --version
 $ curl --version
+curl 7.54.0 
+# Проверка версии curl
 $ git --version
+git version 2.17.2
+# Проверка версии git
 $ g++ --version
+# Проверка версии g++
 $ hub --version
 $ make --version
 $ subl --version
