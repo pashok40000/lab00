@@ -11,7 +11,7 @@
 - [x] 5. Отправить зарегистрированный логин личным сообщением в **Slack**
 - [x] 6. Ознакомиться со ссылками учебного материала
 - [x] 7. Выполнить инструкцию учебного материала
-- [ ] 8. Сгенирировать **Personal Token** с правами **gist** и сохранить его в файл
+- [x] 8. Сгенирировать **Personal Token** с правами **gist** и сохранить его в файл
 - [ ] 9. Составить отчет и отправить ссылку личным сообщением в **Slack**
 
 ## Tutorial
@@ -21,6 +21,8 @@
 ```sh
 # check development environment
 $ cmake --version
+cmake version 3.13.4
+...
 $ curl --version
 curl 7.54.0 
 ...
@@ -34,15 +36,19 @@ $ g++ --version
 ...
 # Проверка версии g++
 $ hub --version
-
+...
+hub version 2.8.4
 $ make --version
-
+GNU Make 3.81
+...
 $ subl --version
-
+Sublime Text Build 3176
 $ tree --version
-
+tree v1.8.0
+...
 $ wget --version
-
+GNU Wget 1.20.1
+...
 $ openssl version
 LibreSSL 2.6.5
 # Проверка версии openssl
