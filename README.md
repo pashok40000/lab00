@@ -23,6 +23,7 @@
 $ cmake --version
 cmake version 3.13.4
 ...
+# Проверка версии cmake
 $ curl --version
 curl 7.54.0 
 ...
@@ -38,17 +39,22 @@ $ g++ --version
 $ hub --version
 ...
 hub version 2.8.4
+# Проверка версии hub
 $ make --version
 GNU Make 3.81
 ...
+# Проверка версии make
 $ subl --version
 Sublime Text Build 3176
+# Проверка версии subl
 $ tree --version
 tree v1.8.0
 ...
+# Проверка версии tree
 $ wget --version
 GNU Wget 1.20.1
 ...
+# Проверка версии wget
 $ openssl version
 LibreSSL 2.6.5
 # Проверка версии openssl
