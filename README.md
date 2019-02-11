@@ -23,18 +23,29 @@
 $ cmake --version
 $ curl --version
 curl 7.54.0 
+...
 # Проверка версии curl
 $ git --version
 git version 2.17.2
 # Проверка версии git
 $ g++ --version
+...
+4.2.1
+...
 # Проверка версии g++
 $ hub --version
+
 $ make --version
+
 $ subl --version
+
 $ tree --version
+
 $ wget --version
+
 $ openssl version
+LibreSSL 2.6.5
+# Проверка версии openssl
 ```
 
 ## Links
