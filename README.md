@@ -20,44 +20,44 @@
 
 ```sh
 # check development environment
+# Проверка версии cmake
 $ cmake --version
 cmake version 3.13.4
 ...
-# Проверка версии cmake
+# Проверка версии curl
 $ curl --version
 curl 7.54.0 
 ...
-# Проверка версии curl
+# Проверка версии git
 $ git --version
 git version 2.17.2
-# Проверка версии git
+# Проверка версии g++
 $ g++ --version
 ...
 4.2.1
 ...
-# Проверка версии g++
+# Проверка версии hub
 $ hub --version
 ...
 hub version 2.8.4
-# Проверка версии hub
+# Проверка версии make
 $ make --version
 GNU Make 3.81
 ...
-# Проверка версии make
+# Проверка версии subl
 $ subl --version
 Sublime Text Build 3176
-# Проверка версии subl
+# Проверка версии tree
 $ tree --version
 tree v1.8.0
 ...
-# Проверка версии tree
+# Проверка версии wget
 $ wget --version
 GNU Wget 1.20.1
 ...
-# Проверка версии wget
+# Проверка версии openssl
 $ openssl version
 LibreSSL 2.6.5
-# Проверка версии openssl
 ```
 
 ## Links
